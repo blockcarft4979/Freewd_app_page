@@ -5,6 +5,12 @@
       "name": "综合区",
       "zone": 1,
       "description": "所有板块已整合至此。若你仍能看到该板块，说明当前 Freewd 社区版本较旧，请前往 https://community.freewd.top/ 更新。旧版本暂不支持发帖和评论，帖子预览不受影响，建议尽快更新。官方 QQ 群：1104207891"
+    },
+   {
+      "icon": "",
+      "name": "Freewd 社区官网",
+      "link": "https://community.freewd.top/",
+      "description": 点击查看新版本特性！"
     }
   ]
 }
