@@ -6,6 +6,8 @@ Freewd 社区感谢有您~
 
 本社区于2025年8月13日成立
 
+说明：Freewd 社区App已使用Compose重构
+
 ————分割线————
 
 >>！截至目前Freewd社区已更新超过100个版本！
@@ -71,4 +73,4 @@ Freewd 社区正式版发布
 © 2025-2026 · 由 BLOCKCARFT 开发
 
 GitHub仓库：
-https://github.com/blockcarft4979/freewd_community/releases�
+https://github.com/blockcarft4979/Freewd
