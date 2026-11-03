@@ -2,9 +2,9 @@
   "status": "success",
   "data": {
     "notification": {
-      "id": 19,
-      "title": "Freewd 社区用户协议更新",
-      "msg": "我们已更新用户协议。为保障您的知情权，欢迎阅读：https://community.freewd.top/documents/pages/agreement",
+      "id": 20,
+      "title": "社区接口更新通知",
+      "msg": "用户主页接口正在更新，导致无法签到，请等待下一个版本更新，感谢支持理解",
       "image_url": "https://shp.qpic.cn/collector/2216368705/d877a980-2278-4042-ad41-8aafee0b02be/0"
     },
     "zone": [
