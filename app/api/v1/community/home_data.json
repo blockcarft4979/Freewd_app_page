@@ -2,7 +2,7 @@
   "status": "success",
   "data": {
     "notification": {
-      "is_show_notification":true,
+      "is_show_notification":false,
       "id": 22,
       "title": "Freewd 社区 v3.13.0 版本更新",
       "msg": "修复图片预览模糊的问题\n优化Markdown渲染\n移除 Freewd 主题色全面适配动态取色\n优化回帖体验\n下载链接：https://apk.freewd.top/apk/latest.apk",
