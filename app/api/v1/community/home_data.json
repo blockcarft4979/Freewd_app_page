@@ -2,7 +2,7 @@
   "status": "success",
   "data": {
     "notification": {
-      "is_show_notification":true,
+      "is_show_notification":false,
       "id": 23,
       "title": "Freewd 社区 v3.13.2 版本更新",
       "msg": "优化登录注册 UI\n个人中心新增修改密码功能\n修复登录界面密码错误无法 SnackBar 无法显示原因的 bug\n修正部分翻译\n更多更新内容请查看：https://github.com/blockcarft4979/Freewd/compare/v3.13.1...v3.13.2\n下载链接：https://apk.freewd.top/apk/latest.apk",
